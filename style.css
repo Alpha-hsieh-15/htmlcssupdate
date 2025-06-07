@@ -294,6 +294,7 @@ li::marker{
 @media (max-width: 374px) {
 
     .page{
+        max-width: 374px;
         padding: 0;
 } 
     .navbar {
@@ -307,8 +308,7 @@ li::marker{
     flex-direction: column;
     text-align: center;
 }
-    
-    .banner-photo,
+    .baneer-photo
     .banner-introduce {
     width: 100%;
     margin-left: 0;
