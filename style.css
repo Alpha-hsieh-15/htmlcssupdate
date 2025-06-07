@@ -58,11 +58,9 @@ html{
     box-sizing: border-box;
 }
 
-.page{
-    min-width: 1920px;
+.page {
     margin: 0 auto;
     padding: 0 24px;
-
 }
 
 img{
@@ -257,7 +255,7 @@ li::marker{
 
 .site-footer {
     border-top: 1px solid gainsboro;
-    width: 1036px;
+    max-width: 1036px;
     margin: 80px auto 0 auto;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -308,7 +306,7 @@ li::marker{
     flex-direction: column;
     text-align: center;
 }
-    .baneer-photo
+    .banner-photo
     .banner-introduce {
     width: 100%;
     margin-left: 0;
