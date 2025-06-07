@@ -291,6 +291,10 @@ li::marker{
 
 @media (max-width: 374px) {
 
+    html, body {
+    overflow-x: hidden;
+}
+
     .page{
         max-width: 374px;
         padding: 0;
